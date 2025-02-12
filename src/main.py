@@ -22,3 +22,10 @@ x = "rafi"
 # is the same as
 x = 'rafi'
 
+# case sensitive (This will create two variables:)
+d = "20"
+D = "Ahmad tambal ban"
+#A will not overwrite a
+print(d)
+print(D)
+
