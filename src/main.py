@@ -1,11 +1,12 @@
-print("Hello everyone!")
+# this is python syntax short explain
 
-name = "Rafi asyam"
-username = "Rafi"
-age = 20
-print(f"im {name}, my age {age}")
+# python indentation
+if 5 > 2:
+    print("Five is greater then two!")
 
-def greet(nama) :
-    return f"hello {username}, you can learn python here"
+# python variable
+x = 5
+y = "hello"
 
-print(greet("Rafi asyam"))
+print(f"{x}")
+print(f"{y}")
